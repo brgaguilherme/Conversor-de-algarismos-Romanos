@@ -37,6 +37,6 @@ Criar interface gráfica simples
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/conversor-romanos.git
+   git clone https://github.com/guilhermebraga/conversor-romanos.git
 - Abra o projeto na IntelliJ IDEA.
 - Execute a classe Main.java.
