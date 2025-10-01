@@ -1,6 +1,6 @@
 # Conversor de Números Romanos para Inteiros
 
-Este é um projeto de lógicva em **Java** que converte números romanos em números inteiros.  
+Este é um projeto de lógica em **Java** que converte números romanos em números inteiros.  
 Foi criado como exercício de aprendizado de Java, utilizando a IDE IntelliJ IDEA.
 
 ---
